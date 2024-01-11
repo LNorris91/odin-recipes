@@ -1,0 +1,24 @@
+* {background-color: #383734;}
+h1 {
+    background-color: rgb(238, 211, 13);
+    color: #172008;
+    font-family: 'Gill Sans', sans-serif;
+    text-align: center;
+}
+.recipe-link {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: silver;
+    }
+h2, p, li, #homebutton {
+    color: rgb(255, 255, 255);
+    font-family:'Gill Sans', sans-serif;
+}
+#homebutton {
+    display: flex;
+    justify-content: center;
+}
+.link {color: red;}
+.headerred {background-color: rgb(255, 81, 0);}
+.imgcenter {text-align: center;}
